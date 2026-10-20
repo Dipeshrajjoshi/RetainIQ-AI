@@ -1,0 +1,25 @@
+# RetainIQ AI – Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core data
+pandas>=2.0
+numpy>=1.26
+faker>=24.0           # synthetic data generation
+
+# Notebooks
+jupyterlab>=4.0
+
+# Excel read/write
+openpyxl>=3.1
+
+# Environment variables
+python-dotenv>=1.0
+
+# AI insight generator (optional – Module E)
+openai>=1.0
+
+# Testing
+pytest>=7.0
+
+# Optional: lightweight web UI (Module F – build last)
+# streamlit>=1.30
